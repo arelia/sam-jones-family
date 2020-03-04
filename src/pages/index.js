@@ -16,13 +16,22 @@ const IndexPage = () => (
 
     <center><h2>Jones Family Reunion<br />2020 VISIONARY</h2></center>
 
-    <p>Hey family it’s time to get it popping out here. Time for the Jones Family to once again come together to celebrate Family, Unity and Strength!<br /><br />
-    
-    <strong>When: July 24 – 26, 2020</strong><br /><br />
-    
-    It is hard to believe that it has been nearly 2 years since the last reunion. Well this year we are meeting in the City of Angels. That’s right, we are coming to <strong>Los Angeles, California</strong>. If you have never been here, get your ticket now. Get on the bus, plane, train or in the car where all roads will lead to Los Angeles.</p>
+<p>Hey all,</p>
 
-    <p>This year’s reunion committee has been hard at work trying to plan and prepare for your arrival. We want to see everyone from near and far. Those cousins who live on the other coast, mid-west or wherever it is that you reside, let’s make this happen. We only do this once every 2 years.  Don’t let this opportunity go and miss spending time with your family. We love you! We will have time to spend hearing about old family legends and stories, exchanging recipes, finding out who’s who and maybe even discovering unknown talents. There are so many wonderful things to be explored within our own family. Remember Grandma’s peach cobbler and fried chicken, and don’t forget about that homemade ice cream. Let’s keep all these traditions alive.</p>
+<p>Spring is almost here and our family reunion is just around the corner. Please, save the dates of <strong>Thursday, July 23 – Sunday, July 26, 2020</strong> to spend with your family. I can’t tell you how excited we are to have everyone coming here to California. We have some fun-filled exciting events planned for everyone. Our events will be headquartered in beautiful <strong>Long Beach, CA</strong>.</p>
+
+<p>Pack your bags and make those reservations to come spend some time with us out by the beach. You don’t want to miss this reunion as it will go down in history! We have come a long way since starting back in Hughes, Arkansas in 1993. We’ve been to Memphis, Dallas, Buffalo, Little Rock, Pine Bluff, St. Louis, and this will be second time in Los Angeles. We can wait to see all of you. You can bring friends and in-laws too, it just won’t be the same if we don’t see all of you.</p>
+
+<p>We are kicking off the festivities with a Meet and Greet event on Thursday evening which will be at our host hotel Hampton Inn / Homewood Suites by Hilton at Long Beach Airport. This will be where you complete your check-in and registration for the reunion and get all the pertinent information. Please reserve your room as soon as possible as this will be a very busy travel time during the summer and rooms may be limited.</p>
+
+<p>We want everyone to come and be comfortable, talk about old times, when we were all younger. Exchange some of those old folklore stories that Grandma and Papa use to tell us. Share recipes, nobody could make fried chicken like auntie. Find out what cousin Carolyn really puts in that famous cake of hers. Family just isn’t family without you. Don’t miss all the fun and excitement!</p>
+
+<p>Please send in your registration form even if you are not attending. This will enable us to keep you in the loop for future events and to stay in touch throughout the year. It will also help us to develop a family directory.</p>
+
+<p>The hotel does provide a complimentary breakfast each morning in the Loge. There are also many eateries and shopping just across the parking lot from the hotel. It is also close in proximity to several major malls and large shopping areas.</p>
+
+<p>Can’t wait to see you! Ya’ll come now ya here!</p>
+
 
 
     <h3>Schedule</h3>
