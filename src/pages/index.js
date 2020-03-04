@@ -38,7 +38,7 @@ const IndexPage = () => (
     <h3>Hotel</h3>
     <p>Our <strong>Host Hotel and Headquarters</strong> will be the</p> 
     
-    <h4><a href='https://www.hilton.com/en/hotels/lgbaphx-hampton-long-beach-airport/' target='_blank' rel='noopener noreferrer'>Hampton Inn Long Beach Airport</a></h4>
+    <h4><a href='https://secure3.hilton.com/en_US/hp/reservation/book.htm?inputModule=HOTEL&ctyhocn=LGBAPHX&spec_plan=CHHWJ3&arrival=20200724&departure=20200727&cid=OM,WW,HILTONLINK,EN,DirectLink&fromId=HILTONLINKDIRECT' target='_blank' rel='noopener noreferrer'>Hampton Inn Long Beach Airport</a></h4>
 
     <p>The Hampton Inn Long Beach Airport is just minutes away from Long Beach Airport. There is a large plethora of eateries which are just steps away from the hotel.</p>
 
@@ -50,7 +50,7 @@ const IndexPage = () => (
 
     <p>
       Group Name: Jones Family Reunion 2020<br />
-      Nightly Rate: $256.40 (tax and security deposit included)<br />
+      Nightly Rate: $179.00 (tax and security deposit included)<br />
       Arrival Date: 24-Jul-2020<br />
       Departure Date: 27-Jul-2020<br />
       Code: WJ3 <em>(Other discounts will not apply)</em><br />
@@ -61,7 +61,7 @@ const IndexPage = () => (
 
     <hr />
 
-    <h4><a href='https://www.hilton.com/en/hotels/lgbarhw-homewood-suites-long-beach-airport/' target='_blank' rel='noopener noreferrer'>Homewood Suites by Hilton Long Beach Airport</a></h4>
+    <h4><a href='https://secure3.hilton.com/en_US/hw/reservation/book.htm?inputModule=HOTEL&ctyhocn=LGBARHW&spec_plan=CHWWJ3&arrival=20200724&departure=20200727&cid=OM,WW,HILTONLINK,EN,DirectLink&fromId=HILTONLINKDIRECT' target='_blank' rel='noopener noreferrer'>Homewood Suites by Hilton Long Beach Airport</a></h4>
 
     <p>There is also the Homewood Suites Hotel within the same building with upgraded amenities which include a kitchenette with separate room spaces. We would need to guarantee a 10-room minimum in order to get a discount with this brand. If you would like to do some of your own cooking the Homewood Suites is a great option.</p>
 
@@ -73,7 +73,7 @@ const IndexPage = () => (
 
     <p>
       Group Name: Jones Family Reunion 2020<br />
-      Nightly Rate: $279.40 (tax and security deposit included)<br />
+      Nightly Rate: $199.00 (tax and security deposit included)<br />
       Arrival Date: 24-Jul-2020<br />
       Departure Date: 27-Jul-2020<br />
       Code: WJ3 <em>(Other discounts will not apply)</em><br />
