@@ -103,8 +103,6 @@ const IndexPage = () => (
     <h3>Join us on Facebook</h3>
     <p>Find the family on Facebook and join the conversation: <a href="https://www.facebook.com/groups/2946402018720917/" target="_blank">https://www.facebook.com/groups/2946402018720917/</a></p>
 
-    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSchPXBvLJtD2s_nmR13GkNwBv90CQ167G0B7UexxbU3kR6euA/viewform?embedded=true" width="640" height="6349" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
   </Layout>
 )
 
